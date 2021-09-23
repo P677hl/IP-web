@@ -24,13 +24,14 @@
 
 ```bash
 > cd IP-web
+> chmod +x *
 > sh bahan.sh
 > sh IP-web.sh
 ```
 <br>
 <h2> My contact!</h2>
 
-[prayogabrd.com](https://desty.page/prayogabrd)<br>
+[prayogabrd.com](https://p677hl.github.io)<br>
 <br>
 <br>
 <br>
